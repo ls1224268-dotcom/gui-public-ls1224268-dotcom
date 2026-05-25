@@ -4,12 +4,8 @@ Modify this file to contain a description of your project, as well as your GUI w
 
 Use [Markdown](https://www.markdownguide.org/basic-syntax) to format appropriately.
 ## Final Project Description
-_For my final project I will be making a Pokedex which will display not only the Pokemon and its name
-but also their stats, information like weigth and gender ratio, and will allow you to check their shiny, 
-mega evolution, and their gender differences._
+_This is a project that aims to work like a Pokedex from the Pokemon games, it gives you a list of 151 Pokemon to checkout their information that include all kinds of stuff that being their name, types, height and widght, abilities, stats, and an entry that tells you a fact about that Pokemon, it also let's you check their shiny, gender, and mega forms all of this while displaing it in a way similar to the games._
 
 ## GUI Wireframe
-_Embed your wireframe image(s) here! Here is an example_
-
 ![Final Project GUI](Untitled_Artwork1.png)
 ![Final Project GUI](Untitled_Artwork(1).png)
