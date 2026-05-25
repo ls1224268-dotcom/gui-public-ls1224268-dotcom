@@ -1,8 +1,8 @@
-module math130.gui {
+module blankjavafx.finalprojectfx5 {
     requires javafx.controls;
     requires javafx.fxml;
 
 
-    opens math130.gui to javafx.fxml;
-    exports math130.gui;
+    opens blankjavafx.finalprojectfx5 to javafx.fxml;
+    exports blankjavafx.finalprojectfx5;
 }
