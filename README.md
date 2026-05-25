@@ -11,4 +11,5 @@ mega evolution, and their gender differences._
 ## GUI Wireframe
 _Embed your wireframe image(s) here! Here is an example_
 
-![Final Project GUI](Untitled_Artwork.png)
+![Final Project GUI](Untitled_Artwork1.png)
+![Final Project GUI](Untitled_Artwork(1).png)
